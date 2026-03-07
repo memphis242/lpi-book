@@ -1,0 +1,11 @@
+# Build artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.out
+*.exe
+
+# Vim files
+*.swp
+*.swo
